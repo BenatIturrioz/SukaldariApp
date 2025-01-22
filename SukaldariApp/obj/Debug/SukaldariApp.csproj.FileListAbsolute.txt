@@ -1,0 +1,11 @@
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\bin\Debug\SukaldariApp.exe.config
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\bin\Debug\SukaldariApp.exe
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\bin\Debug\SukaldariApp.pdb
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\obj\Debug\SukaldariApp.csproj.AssemblyReference.cache
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\obj\Debug\SukaldariApp.Form1.resources
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\obj\Debug\SukaldariApp.Form2.resources
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\obj\Debug\SukaldariApp.Properties.Resources.resources
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\obj\Debug\SukaldariApp.csproj.GenerateResource.cache
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\obj\Debug\SukaldariApp.csproj.CoreCompileInputs.cache
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\obj\Debug\SukaldariApp.exe
+C:\Users\benat\Desktop\SukaldariApp\SukaldariApp\obj\Debug\SukaldariApp.pdb
