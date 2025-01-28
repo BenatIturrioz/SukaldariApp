@@ -33,18 +33,20 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(102)))), ((int)(((byte)(0)))));
             this.button1.Location = new System.Drawing.Point(787, 375);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(559, 381);
             this.button1.TabIndex = 0;
             this.button1.Text = "SUKALDATZERA";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(214)))), ((int)(((byte)(203)))));
             this.ClientSize = new System.Drawing.Size(2164, 1168);
             this.Controls.Add(this.button1);
             this.Name = "Form1";

@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|c:\\users\\benat\\desktop\\sukaldariapp\\sukaldariapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|c:\\users\\benat\\desktop\\sukaldariapp\\sukaldariapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|c:\\users\\benat\\desktop\\sukaldariapp\\sukaldariapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|c:\\users\\benat\\desktop\\sukaldariapp\\sukaldariapp\\dominio\\produktueskaera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\dominio\\produktueskaera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:dominio\\produktueskaera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|c:\\users\\benat\\desktop\\sukaldariapp\\sukaldariapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BC314C-F0A9-4C7E-8D73-308F0046349C}|SukaldariApp.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,31 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwE4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:23:18.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:37:53.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProduktuEskaera.cs",
               "DocumentMoniker": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Dominio\\ProduktuEskaera.cs",
               "RelativeDocumentMoniker": "Dominio\\ProduktuEskaera.cs",
@@ -42,18 +74,17 @@
               "RelativeToolTip": "Dominio\\ProduktuEskaera.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:52:23.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T15:52:23.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwIoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T15:51:37.741Z",
               "EditorCaption": ""
@@ -64,36 +95,33 @@
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form2.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:50:07.341Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-22T15:50:07.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:49:55.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T15:49:55.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\benat\\Desktop\\SukaldariApp\\SukaldariApp\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:49:48.831Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-22T15:49:48.831Z"
             }
           ]
         }
