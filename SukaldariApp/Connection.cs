@@ -1,18 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using MySql.Data;
 using MySql.Data.MySqlClient;
-using System.Threading.Tasks;
 
 namespace SukaldariApp
 {
     internal class Connection
     {
-        private readonly string connectionString = "server='localhost';port='3306';user id='root'; password = '1WMG2023'; database = 'erronka1';SslMode = 'none'";
+        private readonly string connectionString = "server='192.168.115.188';port='3306';user id='1taldea';password='1taldea';database='erronka1';SslMode='none'";
 
+        // Método para obtener la conexión
         public MySqlConnection GetConnection()
         {
             try
@@ -22,23 +17,41 @@ namespace SukaldariApp
             }
             catch (Exception ex)
             {
+                // Si hay un error al crear la conexión, lo lanzamos como excepción
                 throw new Exception("Error al crear la conexión: " + ex.Message);
             }
         }
 
+        // Método para probar la conexión a la base de datos
         public bool TestConnection()
         {
             try
             {
                 using (MySqlConnection connection = GetConnection())
                 {
-                    connection.Open();
-                    return true;
+                    connection.Open();  // Abrir la conexión
+                    return connection.State == System.Data.ConnectionState.Open;  // Verificar si la conexión está abierta
                 }
             }
-            catch
+            catch (Exception ex)
             {
+                // Si hay un error al conectar, lo mostramos y retornamos falso
+                Console.WriteLine("Error al probar la conexión: " + ex.Message);
                 return false;
+            }
+        }
+
+        // Método para ejecutar un comando SQL (si lo necesitas)
+        public MySqlCommand CreateCommand(MySqlConnection connection, string query)
+        {
+            try
+            {
+                MySqlCommand command = new MySqlCommand(query, connection);
+                return command;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al crear el comando: " + ex.Message);
             }
         }
     }
